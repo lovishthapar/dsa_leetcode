@@ -1,0 +1,42 @@
+class Solution {
+    public ListNode mergeKLists(ListNode[] l) 
+    {
+        ListNode a=new ListNode();
+        ListNode b=a;
+        int le=l.length;
+        int min= Integer. MAX_VALUE;
+        int tf=0;
+        int cn=0;
+        while(true)
+        {
+            for(int i=0;i<le;i++)
+            {
+                if(l[i]==null)
+                {
+                cn++;
+                continue;
+                }
+                 
+                    if(min>l[i].val)
+                    {
+                      min=l[i].val;
+                     tf=i;
+
+                    }
+                    } 
+            min= Integer. MAX_VALUE;
+            if(cn==le-1)
+            break;
+            b.next=l[tf];
+            b=b.next;
+            if(l[tf].next !=null)
+            l[tf]=l[tf].next;
+            min= Integer. MAX_VALUE;
+           
+    }
+    
+        
+        return a.next;
+
+    }
+}
