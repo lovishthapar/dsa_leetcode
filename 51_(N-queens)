@@ -1,0 +1,164 @@
+import java.util.*;
+class Solution {
+
+   
+    public List<List<String>> solveNQueens(int n) {
+       List<List<String>> a = new ArrayList<>();
+       char[][] b = new char[n][n];
+      
+       er(b, a, 0);
+       return a;
+   }
+
+ public void er(char c[][],List<List<String>> a,int co)
+            {
+                if(co== c.length)
+                {
+                    save(c,a);
+                    return;
+                }
+               for(int i=0;i<c.length;i++)
+               {
+                   if(s(i,co,c))
+                   
+                   {
+                       c[i][co]='Q';
+                       er(c,a,(co+1));
+                       c[i][co]='.';
+
+
+                   }
+
+               }
+
+
+            } 
+            public void save(char c[][],List<List<String>> a)
+            {
+                 
+               String row = "";
+       List<String> n = new ArrayList<>();
+      
+       for(int i=0; i<c.length; i++)
+        { row="";
+          for(int j=0; j<c[0].length; j++) {
+               if(c[i][j] == 'Q')
+                   row += 'Q';
+               else
+                   row += '.';
+           }
+           n.add(row);
+       }
+      
+       a.add(n);
+   }
+
+
+
+
+            
+             public boolean s(int r,int w,char c[][])
+             { int g=1;
+                   int l=c.length;
+                   for(int i=0;i<l;i++)
+                   {
+                       if(c[r][i]=='Q')
+                       {
+                           g--;
+                       }
+                   }
+                   for(int i=0;i<l;i++)
+                   {
+                       if(c[i][w]=='Q')
+                       {
+                           g--;
+
+                       }
+                   }
+                   int q=1;
+
+                   while(true)
+                   {
+                       int nr=r+q;
+                       int nc=w+q;
+                       if(nr>l-1 || nr<0 || nc>l-1 || nc<0)
+                       {
+                           break;
+                       }
+
+                       if(c[nr][nc]=='Q')
+                       {
+                           g--;
+                       }
+                       q++;
+                   }
+                   int re=-1;
+                  while(true)
+                   {
+                       int nr=r+re;
+                       int nc=w+re;
+                       if(nr>l-1 || nr<0 || nc>l-1 || nc<0)
+                       {
+                           break;
+                       }
+
+                       if(c[nr][nc]=='Q')
+                       {
+                           g--;
+                       }
+                       re--;
+                   }
+                   int tr=1;
+                   int gr=-1;
+                   
+                    tr=1;
+                    gr=-1;
+                    while(true)
+                    {
+                        int nr=tr+r;
+                        int nc=gr+w;
+                         if(nr>l-1 || nr<0 || nc>l-1 || nc<0)
+                       {
+                           break;
+                       }
+                       if(c[nr][nc]=='Q')
+                       {
+                           g--;
+                       }
+                       tr++;
+                       gr--;
+
+
+
+                    }
+                    tr=1;
+                    gr=-1;
+                     while(true)
+                    {
+                        int nr=gr+r;
+                        int nc=tr+w;
+                         if(nr>l-1 || nr<0 || nc>l-1 || nc<0)
+                       {
+                           break;
+                       }
+                       if(c[nr][nc]=='Q')
+                       {
+                           g--;
+                       }
+                       tr++;
+                       gr--;
+
+
+
+                    }
+                   if(g==1)
+                   return true;
+                   else
+                   return false;
+
+
+             }
+         
+        
+        
+    }
