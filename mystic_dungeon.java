@@ -1,0 +1,17 @@
+class Solution {
+    public int maximumEnergy(int[] energy, int k) {
+        for (int i = energy.length-1; i >= 0; i--) {
+			int forwardIndex = i + k;
+			if(forwardIndex>=energy.length)continue;
+			else {
+				energy[i]+=energy[forwardIndex];
+			}
+		}
+        int maxEnergy = Integer.MIN_VALUE;
+        for (int i = 0; i < energy.length; i++) {
+			maxEnergy = Math.max(maxEnergy, energy[i]);
+		}
+        return maxEnergy;
+    }
+}
+  
