@@ -12,6 +12,8 @@ class Solution {
 			maxEnergy = Math.max(maxEnergy, energy[i]);
 		}
         return maxEnergy;
+
+
     }
 }
   
