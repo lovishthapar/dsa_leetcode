@@ -39,6 +39,7 @@ public class Solution {
         }
         
         board[i][j] = temp; // Backtrack
+
         return false;
     }
 }
