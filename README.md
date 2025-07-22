@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lovishthapar/dsa_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1813-maximum-erasure-value](https://github.com/lovishthapar/dsa_leetcode/tree/master/1813-maximum-erasure-value) |
 ## String
 |  |
 | ------- |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lovishthapar/dsa_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Hash Table
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/lovishthapar/dsa_leetcode/tree/master/1813-maximum-erasure-value) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/lovishthapar/dsa_leetcode/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
