@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/lovishthapar/dsa_leetcode/tree/master/1813-maximum-erasure-value) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lovishthapar/dsa_leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/lovishthapar/dsa_leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lovishthapar/dsa_leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/lovishthapar/dsa_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
@@ -61,8 +62,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lovishthapar/dsa_leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lovishthapar/dsa_leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Enumeration
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lovishthapar/dsa_leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lovishthapar/dsa_leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
