@@ -1,26 +1,23 @@
 class Solution {
-    public int longestSubarray(int[] n) {
-        int maxa = Integer.MIN_VALUE;
-  
-        for (int val : n) {
-            if (val > maxa) {
-                maxa = val;
-            }
-        }
+    public int longestSubarray(int[] nums) {
+        int maxVal = nums[0];
+        int maxLen = 1, currLen = 1;
 
-       
-        int c = 0;  
-        int maxCount = 0;
-
-        for (int i = 0; i < n.length; i++) {
-            if (n[i] == maxa) {
-                c++;
-                maxCount = Math.max(maxCount, c);
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] > maxVal) {
+                maxVal = nums[i];
+                currLen = 1;
+                maxLen = 1;
+            } else if (nums[i] == maxVal) {
+                currLen++;
+                if (currLen > maxLen) {
+                    maxLen = currLen;
+                }
             } else {
-                c = 0;  
+                currLen = 0;
             }
         }
 
-        return maxCount;
+        return maxLen;
     }
 }
