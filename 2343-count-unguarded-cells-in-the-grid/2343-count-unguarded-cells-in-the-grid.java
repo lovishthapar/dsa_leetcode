@@ -3,15 +3,17 @@ class Solution {
         int[][] a = new int[m][n]; 
         int le = g.length;
         int er = w.length;
+         
+        for(int f=0;f<le;f++)
+        {
+            a[g[f][0]][g[f][1]]=1;
 
-        // Mark guards
-        for (int[] guard : g) {
-            a[guard[0]][guard[1]] = 1;
+        
+
         }
-
-        // Mark walls
-        for (int[] wall : w) {
-            a[wall[0]][wall[1]] = -1;
+            for(int f=0;f<er;f++)
+        {
+            a[w[f][0]][w[f][1]]=-1;
         }
 
         int[][] vis = new int[m][n];
