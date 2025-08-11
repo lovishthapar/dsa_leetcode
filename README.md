@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/lovishthapar/dsa_leetcode/tree/master/0002-add-two-numbers) |
 | [0223-rectangle-area](https://github.com/lovishthapar/dsa_leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/lovishthapar/dsa_leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/lovishthapar/dsa_leetcode/tree/master/0342-power-of-four) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/lovishthapar/dsa_leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lovishthapar/dsa_leetcode/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/lovishthapar/dsa_leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/lovishthapar/dsa_leetcode/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/lovishthapar/dsa_leetcode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/lovishthapar/dsa_leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/lovishthapar/dsa_leetcode/tree/master/0342-power-of-four) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lovishthapar/dsa_leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lovishthapar/dsa_leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Enumeration
