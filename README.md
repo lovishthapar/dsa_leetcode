@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lovishthapar/dsa_leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lovishthapar/dsa_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/lovishthapar/dsa_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2391-strong-password-checker-ii](https://github.com/lovishthapar/dsa_leetcode/tree/master/2391-strong-password-checker-ii) |
 ## Depth-First Search
 |  |
 | ------- |
