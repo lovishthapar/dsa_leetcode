@@ -13,7 +13,7 @@ class Solution {
             maxw=w;
             if(h[s]>h[l])
             l--;
-            else
+            else if(h[s]<=h[l])
             s++;
 
         }
