@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lovishthapar/dsa_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/lovishthapar/dsa_leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/lovishthapar/dsa_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/lovishthapar/dsa_leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/lovishthapar/dsa_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## String
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lovishthapar/dsa_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lovishthapar/dsa_leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/lovishthapar/dsa_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3748-sort-matrix-by-diagonals](https://github.com/lovishthapar/dsa_leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Simulation
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2787-movement-of-robots](https://github.com/lovishthapar/dsa_leetcode/tree/master/2787-movement-of-robots) |
+| [3748-sort-matrix-by-diagonals](https://github.com/lovishthapar/dsa_leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Prefix Sum
 |  |
 | ------- |
