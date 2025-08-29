@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/1448-maximum-69-number) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/lovishthapar/dsa_leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/lovishthapar/dsa_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/lovishthapar/dsa_leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Recursion
 |  |
 | ------- |
