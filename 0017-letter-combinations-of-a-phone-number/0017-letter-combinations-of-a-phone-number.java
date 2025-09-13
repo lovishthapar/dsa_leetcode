@@ -2,7 +2,7 @@ class Solution {
     public List<String> ae = new ArrayList<>();
 
     public List<String> letterCombinations(String d) {
-        ae.clear(); // clear previous results
+        ae.clear(); 
         if (d == null || d.length() == 0) return ae;
 
         int n = d.length();
