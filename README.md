@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lovishthapar/dsa_leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/lovishthapar/dsa_leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/lovishthapar/dsa_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
+| [2694-find-the-maximum-divisibility-score](https://github.com/lovishthapar/dsa_leetcode/tree/master/2694-find-the-maximum-divisibility-score) |
 | [2787-movement-of-robots](https://github.com/lovishthapar/dsa_leetcode/tree/master/2787-movement-of-robots) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lovishthapar/dsa_leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lovishthapar/dsa_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
