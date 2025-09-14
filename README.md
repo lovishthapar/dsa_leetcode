@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/lovishthapar/dsa_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/lovishthapar/dsa_leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/lovishthapar/dsa_leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/lovishthapar/dsa_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2787-movement-of-robots](https://github.com/lovishthapar/dsa_leetcode/tree/master/2787-movement-of-robots) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lovishthapar/dsa_leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lovishthapar/dsa_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/lovishthapar/dsa_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/lovishthapar/dsa_leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2391-strong-password-checker-ii](https://github.com/lovishthapar/dsa_leetcode/tree/master/2391-strong-password-checker-ii) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/lovishthapar/dsa_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2887-sort-vowels-in-a-string](https://github.com/lovishthapar/dsa_leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/lovishthapar/dsa_leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/lovishthapar/dsa_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/lovishthapar/dsa_leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/lovishthapar/dsa_leetcode/tree/master/0037-sudoku-solver) |
 | [1813-maximum-erasure-value](https://github.com/lovishthapar/dsa_leetcode/tree/master/1813-maximum-erasure-value) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/lovishthapar/dsa_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lovishthapar/dsa_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/lovishthapar/dsa_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/lovishthapar/dsa_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1362-airplane-seat-assignment-probability](https://github.com/lovishthapar/dsa_leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/lovishthapar/dsa_leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lovishthapar/dsa_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2669-find-the-substring-with-maximum-cost](https://github.com/lovishthapar/dsa_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lovishthapar/dsa_leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Combinatorics
 |  |
