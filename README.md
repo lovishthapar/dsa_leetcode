@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/lovishthapar/dsa_leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/lovishthapar/dsa_leetcode/tree/master/0037-sudoku-solver) |
+| [0053-maximum-subarray](https://github.com/lovishthapar/dsa_leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/lovishthapar/dsa_leetcode/tree/master/0078-subsets) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lovishthapar/dsa_leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lovishthapar/dsa_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/lovishthapar/dsa_leetcode/tree/master/0053-maximum-subarray) |
 | [1362-airplane-seat-assignment-probability](https://github.com/lovishthapar/dsa_leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/lovishthapar/dsa_leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lovishthapar/dsa_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/lovishthapar/dsa_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/lovishthapar/dsa_leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
