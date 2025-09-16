@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/lovishthapar/dsa_leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/lovishthapar/dsa_leetcode/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/lovishthapar/dsa_leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/lovishthapar/dsa_leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/lovishthapar/dsa_leetcode/tree/master/0078-subsets) |
 | [0219-contains-duplicate-ii](https://github.com/lovishthapar/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lovishthapar/dsa_leetcode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/lovishthapar/dsa_leetcode/tree/master/0075-sort-colors) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lovishthapar/dsa_leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [2787-movement-of-robots](https://github.com/lovishthapar/dsa_leetcode/tree/master/2787-movement-of-robots) |
 | [2887-sort-vowels-in-a-string](https://github.com/lovishthapar/dsa_leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/lovishthapar/dsa_leetcode/tree/master/0075-sort-colors) |
 ## Game Theory
 |  |
 | ------- |
