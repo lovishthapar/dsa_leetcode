@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/lovishthapar/dsa_leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/lovishthapar/dsa_leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/lovishthapar/dsa_leetcode/tree/master/0342-power-of-four) |
+| [0357-count-numbers-with-unique-digits](https://github.com/lovishthapar/dsa_leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1103-moving-stones-until-consecutive](https://github.com/lovishthapar/dsa_leetcode/tree/master/1103-moving-stones-until-consecutive) |
 | [1362-airplane-seat-assignment-probability](https://github.com/lovishthapar/dsa_leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1448-maximum-69-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/1448-maximum-69-number) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/lovishthapar/dsa_leetcode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/lovishthapar/dsa_leetcode/tree/master/0078-subsets) |
+| [0357-count-numbers-with-unique-digits](https://github.com/lovishthapar/dsa_leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lovishthapar/dsa_leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/lovishthapar/dsa_leetcode/tree/master/0053-maximum-subarray) |
+| [0357-count-numbers-with-unique-digits](https://github.com/lovishthapar/dsa_leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [1362-airplane-seat-assignment-probability](https://github.com/lovishthapar/dsa_leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/lovishthapar/dsa_leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lovishthapar/dsa_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
