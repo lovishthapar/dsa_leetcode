@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/lovishthapar/dsa_leetcode/tree/master/0078-subsets) |
 | [0130-surrounded-regions](https://github.com/lovishthapar/dsa_leetcode/tree/master/0130-surrounded-regions) |
 | [0219-contains-duplicate-ii](https://github.com/lovishthapar/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0611-valid-triangle-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0611-valid-triangle-number) |
 | [0940-fruit-into-baskets](https://github.com/lovishthapar/dsa_leetcode/tree/master/0940-fruit-into-baskets) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lovishthapar/dsa_leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lovishthapar/dsa_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/lovishthapar/dsa_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/lovishthapar/dsa_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/lovishthapar/dsa_leetcode/tree/master/0075-sort-colors) |
+| [0611-valid-triangle-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0611-valid-triangle-number) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lovishthapar/dsa_leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [2787-movement-of-robots](https://github.com/lovishthapar/dsa_leetcode/tree/master/2787-movement-of-robots) |
 | [2887-sort-vowels-in-a-string](https://github.com/lovishthapar/dsa_leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/lovishthapar/dsa_leetcode/tree/master/0075-sort-colors) |
 | [0165-compare-version-numbers](https://github.com/lovishthapar/dsa_leetcode/tree/master/0165-compare-version-numbers) |
+| [0611-valid-triangle-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0611-valid-triangle-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -260,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/lovishthapar/dsa_leetcode/tree/master/0130-surrounded-regions) |
+## Binary Search
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
