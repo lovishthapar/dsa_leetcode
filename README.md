@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/lovishthapar/dsa_leetcode/tree/master/0130-surrounded-regions) |
+| [0871-keys-and-rooms](https://github.com/lovishthapar/dsa_leetcode/tree/master/0871-keys-and-rooms) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lovishthapar/dsa_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0871-keys-and-rooms](https://github.com/lovishthapar/dsa_leetcode/tree/master/0871-keys-and-rooms) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/lovishthapar/dsa_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Heap (Priority Queue)
 |  |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/lovishthapar/dsa_leetcode/tree/master/0130-surrounded-regions) |
+| [0871-keys-and-rooms](https://github.com/lovishthapar/dsa_leetcode/tree/master/0871-keys-and-rooms) |
 ## Union Find
 |  |
 | ------- |
