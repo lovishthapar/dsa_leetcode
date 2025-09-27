@@ -9,10 +9,10 @@ class Solution {
         double max=0;
         for(int i=0;i<ro;i++)
         {
-              for(int f=0;f<ro;f++)
+              for(int f=i+1;f<ro;f++)
         {
-              for(int g=0;g<ro;g++)
-        {
+              for(int g=f+1;g<ro;g++)
+             {
 
             
              if(max<(ar(p[i][0],p[i][1],p[f][0],p[f][1],p[g][0],p[g][1])))
