@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/lovishthapar/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/lovishthapar/dsa_leetcode/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/lovishthapar/dsa_leetcode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/lovishthapar/dsa_leetcode/tree/master/0940-fruit-into-baskets) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/lovishthapar/dsa_leetcode/tree/master/0130-surrounded-regions) |
+| [0794-swim-in-rising-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/lovishthapar/dsa_leetcode/tree/master/0871-keys-and-rooms) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lovishthapar/dsa_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Trie
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/lovishthapar/dsa_leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/lovishthapar/dsa_leetcode/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/lovishthapar/dsa_leetcode/tree/master/0130-surrounded-regions) |
+| [0794-swim-in-rising-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0794-swim-in-rising-water) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lovishthapar/dsa_leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lovishthapar/dsa_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lovishthapar/dsa_leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0794-swim-in-rising-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0794-swim-in-rising-water) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/lovishthapar/dsa_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Shortest Path
 |  |
@@ -282,15 +286,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/lovishthapar/dsa_leetcode/tree/master/0130-surrounded-regions) |
+| [0794-swim-in-rising-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/lovishthapar/dsa_leetcode/tree/master/0871-keys-and-rooms) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/lovishthapar/dsa_leetcode/tree/master/0130-surrounded-regions) |
+| [0794-swim-in-rising-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0794-swim-in-rising-water) |
 ## Binary Search
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0611-valid-triangle-number) |
+| [0794-swim-in-rising-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/lovishthapar/dsa_leetcode/tree/master/0907-koko-eating-bananas) |
 <!---LeetCode Topics End-->
