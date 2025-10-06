@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2391-strong-password-checker-ii](https://github.com/lovishthapar/dsa_leetcode/tree/master/2391-strong-password-checker-ii) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/lovishthapar/dsa_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2887-sort-vowels-in-a-string](https://github.com/lovishthapar/dsa_leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3195-separate-black-and-white-balls](https://github.com/lovishthapar/dsa_leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3462-vowels-game-in-a-string](https://github.com/lovishthapar/dsa_leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3797-design-spreadsheet](https://github.com/lovishthapar/dsa_leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/lovishthapar/dsa_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/lovishthapar/dsa_leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/1448-maximum-69-number) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/lovishthapar/dsa_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [3195-separate-black-and-white-balls](https://github.com/lovishthapar/dsa_leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/lovishthapar/dsa_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/lovishthapar/dsa_leetcode/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0611-valid-triangle-number) |
+| [3195-separate-black-and-white-balls](https://github.com/lovishthapar/dsa_leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Game Theory
 |  |
 | ------- |
