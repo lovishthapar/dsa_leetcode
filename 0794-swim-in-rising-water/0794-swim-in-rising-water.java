@@ -23,7 +23,8 @@ class Solution {
 
     public void dfs(int r,int c,int vis[][],int g[][],int pm,int cm) {
         cm = Math.max(cm, g[r][c]);   
-        if (cm >= best[r][c]) return;
+        if (cm >= best[r][c])
+         return;
         best[r][c] = cm;
 
         if(r==(vis.length-1) && c==(vis[0].length-1)) {
@@ -40,5 +41,6 @@ class Solution {
             }
         }
         vis[r][c]=0;
+        cm=pm;
     }
 }
