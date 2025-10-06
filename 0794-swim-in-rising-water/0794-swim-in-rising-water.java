@@ -2,7 +2,7 @@ class Solution {
     public int nr[]={0,0,1,-1};
     public int nc[]={1,-1,0,0};
     public int mint=Integer.MAX_VALUE;
-    public int[][] best;   // memoization table
+    public int[][] best;   
     
     public int swimInWater(int[][] g) {
         int r=g.length;
@@ -10,7 +10,7 @@ class Solution {
         int vis[][]=new int[r][c];
         best = new int[r][c];
         
-        // initialize best[][] with large values
+        
         for(int i=0;i<r;i++){
             for(int j=0;j<c;j++){
                 best[i][j] = Integer.MAX_VALUE;
@@ -22,9 +22,7 @@ class Solution {
     }
 
     public void dfs(int r,int c,int vis[][],int g[][],int pm,int cm) {
-        cm = Math.max(cm, g[r][c]);   // max elevation along path
-
-        // pruning with memoization
+        cm = Math.max(cm, g[r][c]);   
         if (cm >= best[r][c]) return;
         best[r][c] = cm;
 
