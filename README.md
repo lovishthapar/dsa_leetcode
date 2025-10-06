@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lovishthapar/dsa_leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/lovishthapar/dsa_leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/lovishthapar/dsa_leetcode/tree/master/3336-water-bottles-ii) |
+| [3388-right-triangles](https://github.com/lovishthapar/dsa_leetcode/tree/master/3388-right-triangles) |
 | [3462-vowels-game-in-a-string](https://github.com/lovishthapar/dsa_leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3625-stone-removal-game](https://github.com/lovishthapar/dsa_leetcode/tree/master/3625-stone-removal-game) |
 | [3830-find-closest-person](https://github.com/lovishthapar/dsa_leetcode/tree/master/3830-find-closest-person) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/lovishthapar/dsa_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/lovishthapar/dsa_leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lovishthapar/dsa_leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3388-right-triangles](https://github.com/lovishthapar/dsa_leetcode/tree/master/3388-right-triangles) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/lovishthapar/dsa_leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/lovishthapar/dsa_leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/lovishthapar/dsa_leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2669-find-the-substring-with-maximum-cost](https://github.com/lovishthapar/dsa_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lovishthapar/dsa_leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/lovishthapar/dsa_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3388-right-triangles](https://github.com/lovishthapar/dsa_leetcode/tree/master/3388-right-triangles) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/lovishthapar/dsa_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/lovishthapar/dsa_leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/lovishthapar/dsa_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-count-all-valid-pickup-and-delivery-options](https://github.com/lovishthapar/dsa_leetcode/tree/master/1461-count-all-valid-pickup-and-delivery-options) |
+| [3388-right-triangles](https://github.com/lovishthapar/dsa_leetcode/tree/master/3388-right-triangles) |
 ## Sorting
 |  |
 | ------- |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/lovishthapar/dsa_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3388-right-triangles](https://github.com/lovishthapar/dsa_leetcode/tree/master/3388-right-triangles) |
 | [3778-transform-array-by-parity](https://github.com/lovishthapar/dsa_leetcode/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/lovishthapar/dsa_leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Divide and Conquer
