@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/lovishthapar/dsa_leetcode/tree/master/0022-generate-parentheses) |
 | [0165-compare-version-numbers](https://github.com/lovishthapar/dsa_leetcode/tree/master/0165-compare-version-numbers) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/lovishthapar/dsa_leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lovishthapar/dsa_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/lovishthapar/dsa_leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/lovishthapar/dsa_leetcode/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/lovishthapar/dsa_leetcode/tree/master/0078-subsets) |
 | [0357-count-numbers-with-unique-digits](https://github.com/lovishthapar/dsa_leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lovishthapar/dsa_leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/lovishthapar/dsa_leetcode/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/lovishthapar/dsa_leetcode/tree/master/0120-triangle) |
 | [0357-count-numbers-with-unique-digits](https://github.com/lovishthapar/dsa_leetcode/tree/master/0357-count-numbers-with-unique-digits) |
