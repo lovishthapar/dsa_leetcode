@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/lovishthapar/dsa_leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/lovishthapar/dsa_leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/lovishthapar/dsa_leetcode/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lovishthapar/dsa_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/lovishthapar/dsa_leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/lovishthapar/dsa_leetcode/tree/master/0130-surrounded-regions) |
 | [0219-contains-duplicate-ii](https://github.com/lovishthapar/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/lovishthapar/dsa_leetcode/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lovishthapar/dsa_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0165-compare-version-numbers](https://github.com/lovishthapar/dsa_leetcode/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0611-valid-triangle-number) |
