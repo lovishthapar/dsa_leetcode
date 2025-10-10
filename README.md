@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/lovishthapar/dsa_leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/lovishthapar/dsa_leetcode/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lovishthapar/dsa_leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/lovishthapar/dsa_leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/lovishthapar/dsa_leetcode/tree/master/0078-subsets) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0042-trapping-rain-water) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/lovishthapar/dsa_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/lovishthapar/dsa_leetcode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lovishthapar/dsa_leetcode/tree/master/0053-maximum-subarray) |
 | [0120-triangle](https://github.com/lovishthapar/dsa_leetcode/tree/master/0120-triangle) |
 | [0357-count-numbers-with-unique-digits](https://github.com/lovishthapar/dsa_leetcode/tree/master/0357-count-numbers-with-unique-digits) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/lovishthapar/dsa_leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lovishthapar/dsa_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0165-compare-version-numbers](https://github.com/lovishthapar/dsa_leetcode/tree/master/0165-compare-version-numbers) |
@@ -324,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/lovishthapar/dsa_leetcode/tree/master/0907-koko-eating-bananas) |
 | [1612-avoid-flood-in-the-city](https://github.com/lovishthapar/dsa_leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lovishthapar/dsa_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
