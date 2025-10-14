@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/lovishthapar/dsa_leetcode/tree/master/0940-fruit-into-baskets) |
 | [1018-largest-perimeter-triangle](https://github.com/lovishthapar/dsa_leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lovishthapar/dsa_leetcode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/lovishthapar/dsa_leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lovishthapar/dsa_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/lovishthapar/dsa_leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/lovishthapar/dsa_leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/lovishthapar/dsa_leetcode/tree/master/0130-surrounded-regions) |
 | [0794-swim-in-rising-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0794-swim-in-rising-water) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lovishthapar/dsa_leetcode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/lovishthapar/dsa_leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lovishthapar/dsa_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lovishthapar/dsa_leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/lovishthapar/dsa_leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/lovishthapar/dsa_leetcode/tree/master/0130-surrounded-regions) |
 | [0794-swim-in-rising-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0794-swim-in-rising-water) |
 | [0871-keys-and-rooms](https://github.com/lovishthapar/dsa_leetcode/tree/master/0871-keys-and-rooms) |
+| [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/lovishthapar/dsa_leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 ## Union Find
 |  |
 | ------- |
