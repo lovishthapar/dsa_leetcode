@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0794-swim-in-rising-water) |
+| [0810-valid-tic-tac-toe-state](https://github.com/lovishthapar/dsa_leetcode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0830-largest-triangle-area](https://github.com/lovishthapar/dsa_leetcode/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/lovishthapar/dsa_leetcode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/lovishthapar/dsa_leetcode/tree/master/0940-fruit-into-baskets) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/lovishthapar/dsa_leetcode/tree/master/0037-sudoku-solver) |
 | [0130-surrounded-regions](https://github.com/lovishthapar/dsa_leetcode/tree/master/0130-surrounded-regions) |
 | [0794-swim-in-rising-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0794-swim-in-rising-water) |
+| [0810-valid-tic-tac-toe-state](https://github.com/lovishthapar/dsa_leetcode/tree/master/0810-valid-tic-tac-toe-state) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lovishthapar/dsa_leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/lovishthapar/dsa_leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lovishthapar/dsa_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
