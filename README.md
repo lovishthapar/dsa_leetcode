@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0357-count-numbers-with-unique-digits](https://github.com/lovishthapar/dsa_leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0830-largest-triangle-area](https://github.com/lovishthapar/dsa_leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/lovishthapar/dsa_leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1048-clumsy-factorial](https://github.com/lovishthapar/dsa_leetcode/tree/master/1048-clumsy-factorial) |
 | [1103-moving-stones-until-consecutive](https://github.com/lovishthapar/dsa_leetcode/tree/master/1103-moving-stones-until-consecutive) |
 | [1362-airplane-seat-assignment-probability](https://github.com/lovishthapar/dsa_leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1448-maximum-69-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/1448-maximum-69-number) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0042-trapping-rain-water) |
+| [1048-clumsy-factorial](https://github.com/lovishthapar/dsa_leetcode/tree/master/1048-clumsy-factorial) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/lovishthapar/dsa_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Greedy
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1048-clumsy-factorial](https://github.com/lovishthapar/dsa_leetcode/tree/master/1048-clumsy-factorial) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/lovishthapar/dsa_leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/lovishthapar/dsa_leetcode/tree/master/1642-water-bottles) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lovishthapar/dsa_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
