@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/lovishthapar/dsa_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/lovishthapar/dsa_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/lovishthapar/dsa_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/lovishthapar/dsa_leetcode/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/lovishthapar/dsa_leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lovishthapar/dsa_leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/lovishthapar/dsa_leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/lovishthapar/dsa_leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/lovishthapar/dsa_leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/lovishthapar/dsa_leetcode/tree/master/0342-power-of-four) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/lovishthapar/dsa_leetcode/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Array
 |  |
 | ------- |
