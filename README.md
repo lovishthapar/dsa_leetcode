@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/lovishthapar/dsa_leetcode/tree/master/1642-water-bottles) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/lovishthapar/dsa_leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/lovishthapar/dsa_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/lovishthapar/dsa_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/lovishthapar/dsa_leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/lovishthapar/dsa_leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lovishthapar/dsa_leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/lovishthapar/dsa_leetcode/tree/master/1813-maximum-erasure-value) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lovishthapar/dsa_leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/lovishthapar/dsa_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/lovishthapar/dsa_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/lovishthapar/dsa_leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lovishthapar/dsa_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lovishthapar/dsa_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lovishthapar/dsa_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/lovishthapar/dsa_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/lovishthapar/dsa_leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/lovishthapar/dsa_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/lovishthapar/dsa_leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2391-strong-password-checker-ii](https://github.com/lovishthapar/dsa_leetcode/tree/master/2391-strong-password-checker-ii) |
 | [2669-find-the-substring-with-maximum-cost](https://github.com/lovishthapar/dsa_leetcode/tree/master/2669-find-the-substring-with-maximum-cost) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-valid-tic-tac-toe-state](https://github.com/lovishthapar/dsa_leetcode/tree/master/0810-valid-tic-tac-toe-state) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lovishthapar/dsa_leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/lovishthapar/dsa_leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/lovishthapar/dsa_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lovishthapar/dsa_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/lovishthapar/dsa_leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/lovishthapar/dsa_leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
