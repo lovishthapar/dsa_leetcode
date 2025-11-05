@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/lovishthapar/dsa_leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/lovishthapar/dsa_leetcode/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/lovishthapar/dsa_leetcode/tree/master/0357-count-numbers-with-unique-digits) |
+| [0805-escape-the-ghosts](https://github.com/lovishthapar/dsa_leetcode/tree/master/0805-escape-the-ghosts) |
 | [0830-largest-triangle-area](https://github.com/lovishthapar/dsa_leetcode/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/lovishthapar/dsa_leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1048-clumsy-factorial](https://github.com/lovishthapar/dsa_leetcode/tree/master/1048-clumsy-factorial) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0794-swim-in-rising-water) |
+| [0805-escape-the-ghosts](https://github.com/lovishthapar/dsa_leetcode/tree/master/0805-escape-the-ghosts) |
 | [0810-valid-tic-tac-toe-state](https://github.com/lovishthapar/dsa_leetcode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0830-largest-triangle-area](https://github.com/lovishthapar/dsa_leetcode/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/lovishthapar/dsa_leetcode/tree/master/0907-koko-eating-bananas) |
