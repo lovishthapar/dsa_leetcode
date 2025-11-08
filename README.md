@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/lovishthapar/dsa_leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3625-stone-removal-game](https://github.com/lovishthapar/dsa_leetcode/tree/master/3625-stone-removal-game) |
 | [3830-find-closest-person](https://github.com/lovishthapar/dsa_leetcode/tree/master/3830-find-closest-person) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/lovishthapar/dsa_leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/lovishthapar/dsa_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/lovishthapar/dsa_leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/lovishthapar/dsa_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [4084-maximize-sum-of-squares-of-digits](https://github.com/lovishthapar/dsa_leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Backtracking
 |  |
 | ------- |
