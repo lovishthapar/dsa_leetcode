@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-valid-tic-tac-toe-state](https://github.com/lovishthapar/dsa_leetcode/tree/master/0810-valid-tic-tac-toe-state) |
 | [0830-largest-triangle-area](https://github.com/lovishthapar/dsa_leetcode/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/lovishthapar/dsa_leetcode/tree/master/0907-koko-eating-bananas) |
+| [0923-3sum-with-multiplicity](https://github.com/lovishthapar/dsa_leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0940-fruit-into-baskets](https://github.com/lovishthapar/dsa_leetcode/tree/master/0940-fruit-into-baskets) |
 | [1018-largest-perimeter-triangle](https://github.com/lovishthapar/dsa_leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lovishthapar/dsa_leetcode/tree/master/1253-sort-the-matrix-diagonally) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/lovishthapar/dsa_leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/lovishthapar/dsa_leetcode/tree/master/0037-sudoku-solver) |
 | [0219-contains-duplicate-ii](https://github.com/lovishthapar/dsa_leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0923-3sum-with-multiplicity](https://github.com/lovishthapar/dsa_leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [0940-fruit-into-baskets](https://github.com/lovishthapar/dsa_leetcode/tree/master/0940-fruit-into-baskets) |
 | [1238-alphabet-board-path](https://github.com/lovishthapar/dsa_leetcode/tree/master/1238-alphabet-board-path) |
 | [1612-avoid-flood-in-the-city](https://github.com/lovishthapar/dsa_leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/lovishthapar/dsa_leetcode/tree/master/0075-sort-colors) |
 | [0611-valid-triangle-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0611-valid-triangle-number) |
+| [0923-3sum-with-multiplicity](https://github.com/lovishthapar/dsa_leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [1018-largest-perimeter-triangle](https://github.com/lovishthapar/dsa_leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lovishthapar/dsa_leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/lovishthapar/dsa_leetcode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/lovishthapar/dsa_leetcode/tree/master/0165-compare-version-numbers) |
 | [0287-find-the-duplicate-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/0611-valid-triangle-number) |
+| [0923-3sum-with-multiplicity](https://github.com/lovishthapar/dsa_leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/lovishthapar/dsa_leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3195-separate-black-and-white-balls](https://github.com/lovishthapar/dsa_leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Game Theory
@@ -332,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0923-3sum-with-multiplicity](https://github.com/lovishthapar/dsa_leetcode/tree/master/0923-3sum-with-multiplicity) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/lovishthapar/dsa_leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3388-right-triangles](https://github.com/lovishthapar/dsa_leetcode/tree/master/3388-right-triangles) |
 | [3778-transform-array-by-parity](https://github.com/lovishthapar/dsa_leetcode/tree/master/3778-transform-array-by-parity) |
