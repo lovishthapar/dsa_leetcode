@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lovishthapar/dsa_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/lovishthapar/dsa_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/lovishthapar/dsa_leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2211-count-collisions-on-a-road](https://github.com/lovishthapar/dsa_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/lovishthapar/dsa_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/lovishthapar/dsa_leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2391-strong-password-checker-ii](https://github.com/lovishthapar/dsa_leetcode/tree/master/2391-strong-password-checker-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0042-trapping-rain-water) |
 | [1048-clumsy-factorial](https://github.com/lovishthapar/dsa_leetcode/tree/master/1048-clumsy-factorial) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/lovishthapar/dsa_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2211-count-collisions-on-a-road](https://github.com/lovishthapar/dsa_leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Greedy
 |  |
 | ------- |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/lovishthapar/dsa_leetcode/tree/master/1119-robot-bounded-in-circle) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/lovishthapar/dsa_leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1642-water-bottles](https://github.com/lovishthapar/dsa_leetcode/tree/master/1642-water-bottles) |
+| [2211-count-collisions-on-a-road](https://github.com/lovishthapar/dsa_leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lovishthapar/dsa_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3336-water-bottles-ii](https://github.com/lovishthapar/dsa_leetcode/tree/master/3336-water-bottles-ii) |
 | [3625-stone-removal-game](https://github.com/lovishthapar/dsa_leetcode/tree/master/3625-stone-removal-game) |
