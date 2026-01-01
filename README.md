@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/lovishthapar/dsa_leetcode/tree/master/0002-add-two-numbers) |
+| [0066-plus-one](https://github.com/lovishthapar/dsa_leetcode/tree/master/0066-plus-one) |
 | [0223-rectangle-area](https://github.com/lovishthapar/dsa_leetcode/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/lovishthapar/dsa_leetcode/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/lovishthapar/dsa_leetcode/tree/master/0319-bulb-switcher) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/lovishthapar/dsa_leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/lovishthapar/dsa_leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lovishthapar/dsa_leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/lovishthapar/dsa_leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/lovishthapar/dsa_leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/lovishthapar/dsa_leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lovishthapar/dsa_leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
