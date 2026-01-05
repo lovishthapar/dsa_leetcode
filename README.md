@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/lovishthapar/dsa_leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1627-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/lovishthapar/dsa_leetcode/tree/master/1627-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1813-maximum-erasure-value](https://github.com/lovishthapar/dsa_leetcode/tree/master/1813-maximum-erasure-value) |
+| [1975-maximum-matrix-sum](https://github.com/lovishthapar/dsa_leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lovishthapar/dsa_leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/lovishthapar/dsa_leetcode/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/lovishthapar/dsa_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/1448-maximum-69-number) |
 | [1612-avoid-flood-in-the-city](https://github.com/lovishthapar/dsa_leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/lovishthapar/dsa_leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1975-maximum-matrix-sum](https://github.com/lovishthapar/dsa_leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3195-separate-black-and-white-balls](https://github.com/lovishthapar/dsa_leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/lovishthapar/dsa_leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/lovishthapar/dsa_leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0810-valid-tic-tac-toe-state](https://github.com/lovishthapar/dsa_leetcode/tree/master/0810-valid-tic-tac-toe-state) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lovishthapar/dsa_leetcode/tree/master/1253-sort-the-matrix-diagonally) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/lovishthapar/dsa_leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
+| [1975-maximum-matrix-sum](https://github.com/lovishthapar/dsa_leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/lovishthapar/dsa_leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/lovishthapar/dsa_leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/lovishthapar/dsa_leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
