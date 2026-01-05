@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/lovishthapar/dsa_leetcode/tree/master/3336-water-bottles-ii) |
 | [3388-right-triangles](https://github.com/lovishthapar/dsa_leetcode/tree/master/3388-right-triangles) |
 | [3462-vowels-game-in-a-string](https://github.com/lovishthapar/dsa_leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3536-maximum-product-of-two-digits](https://github.com/lovishthapar/dsa_leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/lovishthapar/dsa_leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3625-stone-removal-game](https://github.com/lovishthapar/dsa_leetcode/tree/master/3625-stone-removal-game) |
 | [3783-mirror-distance-of-an-integer](https://github.com/lovishthapar/dsa_leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2787-movement-of-robots](https://github.com/lovishthapar/dsa_leetcode/tree/master/2787-movement-of-robots) |
 | [2887-sort-vowels-in-a-string](https://github.com/lovishthapar/dsa_leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lovishthapar/dsa_leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/lovishthapar/dsa_leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3748-sort-matrix-by-diagonals](https://github.com/lovishthapar/dsa_leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3778-transform-array-by-parity](https://github.com/lovishthapar/dsa_leetcode/tree/master/3778-transform-array-by-parity) |
 ## Prefix Sum
