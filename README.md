@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/lovishthapar/dsa_leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/lovishthapar/dsa_leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3625-stone-removal-game](https://github.com/lovishthapar/dsa_leetcode/tree/master/3625-stone-removal-game) |
+| [3783-mirror-distance-of-an-integer](https://github.com/lovishthapar/dsa_leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/lovishthapar/dsa_leetcode/tree/master/3830-find-closest-person) |
 | [4084-maximize-sum-of-squares-of-digits](https://github.com/lovishthapar/dsa_leetcode/tree/master/4084-maximize-sum-of-squares-of-digits) |
 ## Recursion
