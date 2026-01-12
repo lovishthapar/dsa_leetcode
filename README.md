@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-clumsy-factorial](https://github.com/lovishthapar/dsa_leetcode/tree/master/1048-clumsy-factorial) |
 | [1103-moving-stones-until-consecutive](https://github.com/lovishthapar/dsa_leetcode/tree/master/1103-moving-stones-until-consecutive) |
 | [1119-robot-bounded-in-circle](https://github.com/lovishthapar/dsa_leetcode/tree/master/1119-robot-bounded-in-circle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/lovishthapar/dsa_leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1362-airplane-seat-assignment-probability](https://github.com/lovishthapar/dsa_leetcode/tree/master/1362-airplane-seat-assignment-probability) |
 | [1390-four-divisors](https://github.com/lovishthapar/dsa_leetcode/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/lovishthapar/dsa_leetcode/tree/master/1448-maximum-69-number) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/lovishthapar/dsa_leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/lovishthapar/dsa_leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1253-sort-the-matrix-diagonally](https://github.com/lovishthapar/dsa_leetcode/tree/master/1253-sort-the-matrix-diagonally) |
+| [1266-minimum-time-visiting-all-points](https://github.com/lovishthapar/dsa_leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1322-minimum-moves-to-reach-target-with-rotations](https://github.com/lovishthapar/dsa_leetcode/tree/master/1322-minimum-moves-to-reach-target-with-rotations) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lovishthapar/dsa_leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1390-four-divisors](https://github.com/lovishthapar/dsa_leetcode/tree/master/1390-four-divisors) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/lovishthapar/dsa_leetcode/tree/master/0223-rectangle-area) |
 | [0830-largest-triangle-area](https://github.com/lovishthapar/dsa_leetcode/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/lovishthapar/dsa_leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2367-minimum-lines-to-represent-a-line-chart](https://github.com/lovishthapar/dsa_leetcode/tree/master/2367-minimum-lines-to-represent-a-line-chart) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/lovishthapar/dsa_leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Matrix
